@@ -956,7 +956,7 @@ switch planeta {
 ###Classes e Objetos
 
 
-![](http://i67.tinypic.com/2hdxkz6.jpg)
+![](http://i67.tinypic.com/scg7qp.jpg)
 
 Classe, é a unidade que define o comportamento de seus objetos
 
