@@ -154,7 +154,7 @@ if let dados = nome {//... } else {//...}
 ```
 ####Verifica se "dados" retorna algo de "nome", caso contrário seu retorno será nulo.
 
-![](http://i66.tinypic.com/2uy55yh.png)  
+![](http://i64.tinypic.com/15xk38l.png)  
 
 ####Com o "if let" é possível evitar o erro em tempo de execução para aquelas variáveis nulas
 
@@ -948,7 +948,7 @@ switch planeta {
 ###Classes e Objetos
 
 
-![](http://i65.tinypic.com/2135fv9.jpg)
+![](http://i67.tinypic.com/2hdxkz6.jpg)
 
 Classe, é a unidade que define o comportamento de seus objetos
 
