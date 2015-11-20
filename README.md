@@ -920,9 +920,9 @@ Enumerações são listas, lista de possibilidades de valores a serem usados
 
 ```
 
-```swift
-
 ####Enumerações com Switch
+
+```swift
 
 enum planetas {
   case mercurio
