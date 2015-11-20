@@ -33,7 +33,7 @@
    *  [Classes](#classes-e-objetos)
    *  [Herança](#herança)
    *  [Protocolos](#protocolos)
-   *  [Estruturas](#estruturas)
+   *  [Struct](#struct)
    *  [Extension](#extension)
    *  [Tipo Casting](#tipo-casting)
    * <b>[Modúlo IV](#Modúlo)</b>
@@ -1108,11 +1108,11 @@ var ce = Android()
 print (ce.random()) //Imprime 1.2
 ```
 
-###Estruturas
+###Struct
 
 ![](http://i68.tinypic.com/3498ohs.jpg)
 
-"Struct" De cara... parecem classes mas diferentimente desses não trabalham com herança. Ambos podem armazenar metódos, propriedades, constantes, variáveis, etc. 
+"Struct", De cara... parecem classes mas diferentimente desses não trabalham com herança. Ambos podem armazenar metódos, propriedades, constantes, variáveis, etc. 
 ####Exemplo:
 
 ```swift
