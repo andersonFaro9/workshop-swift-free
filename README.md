@@ -998,7 +998,7 @@ c.construir() //Chamando um método
 
 ####Herança
 
-Quando se herda do seu progenitor. No contexto de programação de computadores, estamos falando que o objeto herda caracteristicas de sua classe pai.
+Quando se herda do seu progenitor. No contexto de programação de computadores, dissemos que o objeto herda caracteristicas de sua classe pai
 
 ```swift
  class Apartamento:Casa {
