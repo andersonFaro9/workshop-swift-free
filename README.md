@@ -176,7 +176,7 @@ else {
 ```
 
 
-![](http://i64.tinypic.com/6zy9s1.png)
+![](http://i65.tinypic.com/2ijq4io.jpg)
 
 ####Seja forte, e prefira inicializar suas variáveis!
 
