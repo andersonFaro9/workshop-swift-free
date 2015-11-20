@@ -587,12 +587,13 @@ Tanto o float e o double são flutuantes, a diferença é que float  para númer
 ####Exemplo:
 
 ```Swift
-var y:Float = 300.000
+//Float
+var x: Float = 300.0123456
+print(x) // 300.012
 
 //Double
-var y:Float = 300.000
-
-//
+var y: Double = 300.0123456
+print(y) // 300.0123456
 ```
 
 ####Boolean
