@@ -178,6 +178,16 @@ else {
 
 ![](http://i65.tinypic.com/2ijq4io.jpg)
 
+####Exemplo:
+
+```swift
+var xy:String = "De boa na Lagoa!" // valor inicializado
+```
+
+```swift
+var xy:Int = 30 // valor inicializado
+```
+
 ###Constantes
 
 Para declarar uma constante em Swift deve-se usar a palavra reservada let e seu valor não pode ser alterado. 
