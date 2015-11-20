@@ -178,8 +178,6 @@ else {
 
 ![](http://i65.tinypic.com/2ijq4io.jpg)
 
-####Seja forte, e prefira inicializar suas variáveis!
-
 ###Constantes
 
 Para declarar uma constante em Swift deve-se usar a palavra reservada let e seu valor não pode ser alterado. 
