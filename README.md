@@ -1110,7 +1110,7 @@ print (ce.random()) //Imprime 1.2
 
 ###Estruturas
 
-![](http://i63.tinypic.com/2afwwa0.jpg)
+![](http://i68.tinypic.com/3498ohs.jpg)
 
 "Struct" De cara... parecem classes mas diferentimente desses não trabalham com herança. Ambos podem armazenar metódos, propriedades, constantes, variáveis, etc. 
 ####Exemplo:
