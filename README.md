@@ -327,6 +327,8 @@ else {
 
 ####Operador <
 
+Menor que
+
 ####Exemplo:
 ```swift
 //Uso do sinal de "<"  para comparar se um número é menor que o outro
@@ -359,6 +361,8 @@ else {
 }
 ```
 #### Operador <=
+
+Menor igual
 
 ####Exemplo:
 
@@ -606,10 +610,6 @@ else {
 
 ```swift
 
-####Exemplo:
-
-```swift
-
 var numeroInteiro = 20
 var numeroDouble = 20.00
 var soma = numeroInteiro + numeroDouble
@@ -715,7 +715,7 @@ print ("\(arrayFilhoDaMae)") //Imprime ["Rockao": "Jimi Hendrix", "Jantar": "Fei
 
 //Exemplo de como mudar o valor de um indice em um dicionário:
 
-aarrayFilhoDaMae ["Rockao"] = "The who"
+arrayFilhoDaMae ["Rockao"] = "The who"
 print ("\(arrayFilhoDaMae)") //Imprime ["Rockao": "The who", "Jantar": "Feijão", "Lanche": "hanburgue"]
 
 ```
