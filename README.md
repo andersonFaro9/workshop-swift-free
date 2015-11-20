@@ -962,7 +962,10 @@ Classe, é a unidade que define o comportamento de seus objetos
 
 ####Exemplo:
 
-```swift //declaração simples de classe```
+
+
+
+#### Declaração simples de classe
 
 ```swift
 
@@ -971,8 +974,9 @@ class Casa {
 }  
 ```
 
-
+#### A classe, as propriedades e os metódos
 ```swift
+
 class Casa {
   var porta:String = "porta" //propriedade porta
   var janela:String = "janela" //Propriedade janela
@@ -982,7 +986,11 @@ class Casa {
     print("construindo casa...")
   }
 }
+```
 
+####Criando seu objeto e instanciando sua classe
+
+```swift
 var c = Casa() //Seu objeto
 c.construir() //Chamando um método 
 
