@@ -1024,6 +1024,53 @@ ap.construir() // Reusando o método construir
 ```
 
 
+####Metódo init
+Com ele é possível inicializar nossas propriedades e preparar sua instância para uso
+
+####Exemplo:
+
+```swift
+
+//Declaração simples
+
+init() {
+  
+}
+
+```
+
+####Sem parâmetros
+
+```swift
+class RatoDeEsgosto {
+  var pata:String
+  var rabo:String
+
+  //Sem parâmetros
+  
+  init(){
+    rabo = "Rabo"
+  }
+}
+```
+
+####Com parâmetros
+
+```swift
+class RatoDeEsgosto {
+  var pata:String
+  var rabo:String
+
+  //Com parâmetros
+  
+  init(pata:String,rabo:String){
+    self.pata = "Pata"
+     self.rabo = "Rabo"
+  }
+}
+```
+
+
 ####Modificadores de acesso 
 Aqueles responsáveis pelo comportamento de seus objetos, propriedades, classes e metódos
 
@@ -1112,33 +1159,59 @@ print (ce.random()) //Imprime 1.2
 
 ![](http://i68.tinypic.com/3498ohs.jpg)
 
-"Struct", De cara... parecem classes mas diferentimente desses não trabalham com herança. Ambos podem armazenar metódos, propriedades, constantes, variáveis, etc. 
+Struct não possui suporte a herança, é <b>passada por valor e não por referência</b> como ocorre em uma classe.
+
 ####Exemplo:
 
 ```swift
 
-//Struct
+struct SovertedoMes {
+  
+  var agosto:Int = 30
+  var setembro:Int = 0
 
-struct Casa {
-  var porta:Int
-  var janela:Int
 }
-
-var p = Casa(porta: 2, janela: 3)
-}
-
 ```
 
+A variável sm_2 não recebe de sm_1 um novo valor e permanece com seu antigo
+
 ```swift
-//Errado, não funcionará pois "struct" não trabalha com herança 
 
-struct Casa:String { 
-  var porta:Int
-  var janela:Int
+
+var sm_1 = SovertedoMes()
+var sm_2 = sm_1  //Atribuimos c1 para c2
+sm_1.agosto = 40
+
+print(sm_1.agosto) //40
+print(sm_2.agosto) //30
+```
+
+Experimente mudar a declaração de struct para class
+
+####Exemplo:
+
+```swift
+
+class SovertedoMes {
+  
+  var agosto:Int = 30
+  var setembro:Int = 0
+
 }
+```
 
-var p = Casa(porta: 2, janela: 3)
+Nesta situação a variável sm_2 recebe e imprime um novo valor pois recebe como referência o valor de sm_1
 
+```swift
+
+
+
+var sm_1 = SovertedoMes()
+var sm_2 = sm_1 
+sm_1.agosto = 40
+
+print(sm_1.agosto) //40
+print(sm_2.agosto) //40
 ```
 
 ###Extension
