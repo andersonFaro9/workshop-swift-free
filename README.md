@@ -1025,6 +1025,10 @@ ap.construir() // Reusando o método construir
 
 
 ####Metódo init
+
+
+![](http://i63.tinypic.com/124xzxe.jpg)
+
 Com ele é possível inicializar nossas propriedades e preparar sua instância para uso
 
 ####Exemplo:
