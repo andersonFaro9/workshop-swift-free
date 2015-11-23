@@ -13,6 +13,7 @@
 
 * [O Curso](#curso)
     * <b>[Modúlo I](#Modúlo)</b>
+    * [Para quem é o curso](#para-quem-é-o-curso) 
     * [A linguagem Swift](#a-linguagem-swift)
     * [Custo](#custo)
     * [Variáveis, uso de opcionais](#variáveis)
@@ -49,6 +50,12 @@ Swift foi criada e pensada para desenvolvimento de aplicativos. É segura, e div
 
 ###Curso
 Este curso será dividido em 04 módulos cada um com 01 aula e duração de no máximo 1 hora, 1 vez por semana e sem um dia fixo. Você aprenderá os conceitos básicos da linguagem, como variáveis, constantes, funções e etc. Logo após, teremos a segunda parte do curso, onde desenvolveremos um aplicativo OPEN SOURCE que facilitará o aprendizado das crianças com nosso alfabeto. Esperamos que todos possam implementar e compartilhar nosso código, pois a intenção é que o aplicativo seja sempre "OPEN SOURCE" e benefecie a todos. 
+
+###Para quem é o curso
+
+![](http://i66.tinypic.com/5ev8rr.png)
+
+Para quem já tem alguma experiência em desenvolvimento de software ou que já tenha conhecimento de lógica programação.
 
 ###Custo
 
