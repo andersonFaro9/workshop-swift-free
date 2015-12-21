@@ -7,11 +7,17 @@
 
 # Aulas
 
-# Slide do primeiro módulo
+# Slide do módulo I
 https://docs.google.com/presentation/d/1KK9imqtF2px95Vq5KbOT4hGsuJHtaCBFchupoDWeBpE/edit?usp=sharing
 
-# Slide do segundo módulo
+#Video módulo I
+http://www.youtube.com/watch?v=MX1x-B427xw
+
+# Slide do módulo II
 https://docs.google.com/presentation/d/1NuzwitPuU6b2CXJtaDs3FwL-LObQBMw9SxD6yvg8YKc/edit?usp=sharing
+
+#Video módulo II
+http://www.youtube.com/watch?v=wkomwRNBkx0
 
 # Ementa
 
