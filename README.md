@@ -7,6 +7,8 @@
 
 # Aulas
 
+# Slide do primeiro módulo
+https://docs.google.com/presentation/d/1KK9imqtF2px95Vq5KbOT4hGsuJHtaCBFchupoDWeBpE/edit?usp=sharing
 
 # Ementa
 
