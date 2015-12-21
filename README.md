@@ -10,6 +10,9 @@
 # Slide do primeiro módulo
 https://docs.google.com/presentation/d/1KK9imqtF2px95Vq5KbOT4hGsuJHtaCBFchupoDWeBpE/edit?usp=sharing
 
+# Slide do segundo módulo
+https://docs.google.com/presentation/d/1NuzwitPuU6b2CXJtaDs3FwL-LObQBMw9SxD6yvg8YKc/edit?usp=sharing
+
 # Ementa
 
 
