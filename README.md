@@ -19,6 +19,12 @@ https://docs.google.com/presentation/d/1NuzwitPuU6b2CXJtaDs3FwL-LObQBMw9SxD6yvg8
 #Video módulo II
 http://www.youtube.com/watch?v=wkomwRNBkx0
 
+# Slide do módulo III
+https://docs.google.com/presentation/d/1Wqa9IIVSYHUcYpkPG4JJQMi3gCIuk-o1NWJKmRLcndc/edit#slide=id.gdc0a2f787_0_0
+
+#Video módulo III
+https://www.youtube.com/watch?v=5SFjQ0pMv5A
+
 # Ementa
 
 
